@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@raw/supremeech,@raw/technolight,@raw/cyborg_scan,@raw/droid_power,@raw/piu,@raw/robot_beep,@raw/robot,@raw/robo_beeps,@raw/callme,,@raw/icq" />
